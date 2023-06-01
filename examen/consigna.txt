@@ -1,0 +1,7 @@
+
+1. Una empresa fabrica productos de los cuales se conoce el código, la descripción, el costo en materia prima,
+y la cantidad de horas para productor. El costo por hora de producción es $850.00. Se debe generar un objeto
+con un método que calcule el precio de venta el cual se establece en un 35% adicional al costo de producirlo.
+
+En el departamento de venta, además, desean calcular el importe total de una venta agregando la cantidad de ítems
+y un método que les permite calcular el importe total.
