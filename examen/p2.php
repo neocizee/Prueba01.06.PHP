@@ -1,5 +1,5 @@
 <?php
-require_once('p1.php');
+include('p1.php');
 
 
 class DepVenta extends Fabrica {
